@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int first = 220;
+    for(int i = first ; i<=720 ; i+=7){
+        cout<<i<<endl;
+    }
+}
